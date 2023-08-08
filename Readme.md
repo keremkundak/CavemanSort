@@ -1,6 +1,5 @@
 <h3>CavemanSort</h3>
-CavemanSort is a little fun project to observe how randomness affects programming.<br />
-<br />
+CavemanSort is a little fun project to observe how randomness affects programming.
 Testing started with list lengths from 1 to 100 and was revised to 1 to 11 because of the ridiculous runtimes. Sorting a list of length 12 only occurred once, taking over 5 minutes of runtime.
 <details>
 <summary>Here is the sample output:</summary>
